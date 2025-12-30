@@ -1,0 +1,12 @@
+//by python we solve the problem of armstrong number
+
+class Solution:
+    def isArmstrong(self, n: int) -> bool:
+        digits = list(map(int, str(n)))
+        power = len(digits)
+
+        total = 0
+        for d in digits:
+            total += d ** power
+
+        return total == n
