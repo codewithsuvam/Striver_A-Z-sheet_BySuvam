@@ -11,6 +11,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,4 +44,12 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
+## Math
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
