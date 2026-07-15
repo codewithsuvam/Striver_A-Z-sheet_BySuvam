@@ -48,6 +48,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -61,4 +62,8 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2073-time-needed-to-buy-tickets) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
