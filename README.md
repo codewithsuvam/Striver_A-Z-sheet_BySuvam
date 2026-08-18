@@ -24,6 +24,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1563-stone-game-v) |
@@ -103,6 +104,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -132,4 +134,8 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
