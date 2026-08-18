@@ -25,6 +25,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0057-insert-interval) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1563-stone-game-v) |
