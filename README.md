@@ -28,6 +28,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0057-insert-interval) |
+| [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0986-interval-list-intersections](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1406-stone-game-iii) |
@@ -153,9 +154,14 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
