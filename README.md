@@ -32,6 +32,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [1406-stone-game-iii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1563-stone-game-v) |
 | [2073-time-needed-to-buy-tickets](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
@@ -87,6 +88,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
