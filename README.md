@@ -14,6 +14,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0020-valid-parentheses](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -163,6 +164,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
