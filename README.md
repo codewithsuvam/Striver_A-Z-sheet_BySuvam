@@ -10,6 +10,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
