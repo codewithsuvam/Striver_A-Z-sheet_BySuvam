@@ -197,10 +197,12 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
