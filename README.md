@@ -36,6 +36,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0057-insert-interval](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0860-lemonade-change) |
 | [0986-interval-list-intersections](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0986-interval-list-intersections) |
@@ -54,6 +55,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
