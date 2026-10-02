@@ -34,6 +34,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0057-insert-interval) |
+| [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0860-lemonade-change) |
@@ -134,6 +135,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -162,18 +164,21 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
+| [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [0986-interval-list-intersections](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0860-lemonade-change) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 ## Sweep Line
 |  |
 | ------- |
