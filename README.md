@@ -40,6 +40,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0860-lemonade-change) |
 | [0986-interval-list-intersections](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
@@ -60,6 +61,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
@@ -230,4 +232,8 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
