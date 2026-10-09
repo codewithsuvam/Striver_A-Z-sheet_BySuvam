@@ -67,6 +67,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0875-koko-eating-bananas) |
@@ -103,6 +104,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Math
 |  |
 | ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1563-stone-game-v) |
