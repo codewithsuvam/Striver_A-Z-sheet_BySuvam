@@ -33,6 +33,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
@@ -76,6 +78,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -107,6 +110,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0973-k-closest-points-to-origin) |
@@ -176,6 +180,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0973-k-closest-points-to-origin) |
@@ -208,6 +213,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
