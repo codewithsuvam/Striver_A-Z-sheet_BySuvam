@@ -59,6 +59,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0973-k-closest-points-to-origin](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1872-stone-game-viii) |
@@ -83,6 +84,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
@@ -114,6 +116,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -184,6 +187,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -275,6 +279,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Ternary Search
 |  |
