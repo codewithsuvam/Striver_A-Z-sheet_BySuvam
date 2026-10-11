@@ -9,6 +9,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -19,6 +20,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0020-valid-parentheses](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -44,6 +46,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,6 +104,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [3620-network-recovery-pathways](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -151,6 +155,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
@@ -164,6 +169,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -272,4 +278,9 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
