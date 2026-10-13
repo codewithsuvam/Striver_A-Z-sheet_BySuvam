@@ -45,6 +45,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0410-split-array-largest-sum) |
@@ -80,6 +81,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
@@ -224,6 +226,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
+| [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0986-interval-list-intersections) |
@@ -268,6 +271,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Linked List
 |  |
@@ -334,4 +338,12 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
