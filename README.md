@@ -57,6 +57,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -158,6 +159,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1872-stone-game-viii) |
