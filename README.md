@@ -7,6 +7,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0242-valid-anagram) |
@@ -48,6 +49,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0001-two-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0057-insert-interval) |
@@ -306,6 +308,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
