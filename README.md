@@ -51,6 +51,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0057-insert-interval) |
@@ -112,6 +113,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1406-stone-game-iii) |
@@ -247,6 +249,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -278,6 +281,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -290,6 +294,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
