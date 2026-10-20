@@ -282,6 +282,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0020-valid-parentheses](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -376,4 +377,8 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
