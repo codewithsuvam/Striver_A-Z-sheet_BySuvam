@@ -73,6 +73,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0973-k-closest-points-to-origin) |
@@ -219,6 +220,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0658-find-k-closest-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0767-reorganize-string) |
+| [0853-car-fleet](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -285,6 +287,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0155-min-stack](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
@@ -298,6 +301,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0853-car-fleet) |
 ## Bit Manipulation
 |  |
 | ------- |
