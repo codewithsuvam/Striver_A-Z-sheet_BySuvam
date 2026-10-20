@@ -47,6 +47,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0036-valid-sudoku) |
@@ -203,6 +204,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0215-kth-largest-element-in-an-array) |
@@ -244,6 +246,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0167-two-sum-ii-input-array-is-sorted) |
