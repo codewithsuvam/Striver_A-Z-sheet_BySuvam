@@ -49,6 +49,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -97,6 +98,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
@@ -344,6 +346,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
