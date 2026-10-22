@@ -16,6 +16,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0409-longest-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0767-reorganize-string) |
+| [0981-time-based-key-value-store](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0981-time-based-key-value-store) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -31,6 +32,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0409-longest-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0767-reorganize-string) |
+| [0981-time-based-key-value-store](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -108,6 +110,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0704-binary-search](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0981-time-based-key-value-store) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/3312-sorted-gcd-pair-queries) |
@@ -388,6 +391,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0981-time-based-key-value-store) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
