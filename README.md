@@ -11,6 +11,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0036-valid-sudoku](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
@@ -278,6 +279,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
@@ -343,6 +345,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0025-reverse-nodes-in-k-group](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0206-reverse-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
@@ -410,6 +413,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
