@@ -280,6 +280,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
@@ -312,6 +313,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0020-valid-parentheses](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0739-daily-temperatures) |
@@ -346,6 +348,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0061-rotate-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0206-reverse-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
@@ -354,6 +357,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0021-merge-two-sorted-lists](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
