@@ -13,6 +13,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0076-minimum-window-substring](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0347-top-k-frequent-elements) |
@@ -355,6 +356,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0138-copy-list-with-random-pointer](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0206-reverse-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
@@ -429,6 +431,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0981-time-based-key-value-store) |
 ## Range Minimum/Maximum Query
@@ -440,4 +443,8 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
