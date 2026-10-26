@@ -73,6 +73,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0074-search-a-2d-matrix) |
@@ -141,6 +142,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/1140-stone-game-ii) |
@@ -297,6 +299,7 @@ This repository contains my own solutions to the Striver A2Z DSA Sheet. Solution
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/codewithsuvam/Striver_A-Z-sheet_BySuvam/tree/master/0455-assign-cookies) |
